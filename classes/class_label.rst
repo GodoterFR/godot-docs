@@ -54,7 +54,7 @@ Member Variables
 
   .. _class_Label_percent_visible:
 
-- :ref:`float<class_float>` **percent_visible** - Limits the count of visible characters. If you set ``percent_visible`` to 50, only up to half of the text's characters will display on screen. Useful to animate the text in a dialog box.
+- :ref:`float<class_float>` **percent_visible** - Limits the count of visible characters. If you set ``percent_visible`` to 0.5, only up to half of the text's characters will display on screen. Useful to animate the text in a dialog box.
 
   .. _class_Label_text:
 
